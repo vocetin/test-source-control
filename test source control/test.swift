@@ -11,6 +11,6 @@ import Foundation
 
 class Test {
     func hello() {
-        print("salut")
+        print("salut comment ça va")
     }
 }
